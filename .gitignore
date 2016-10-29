@@ -1,0 +1,5 @@
+# virtualenv
+env/
+
+# generated files
+*.pyc
